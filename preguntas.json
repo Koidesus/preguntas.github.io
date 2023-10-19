@@ -1,0 +1,152 @@
+[
+{
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuesta": "París",
+    "incorrecta1": "Londres",
+    "incorrecta2": "Madrid",
+    "incorrecta3": "Berlín",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuesta": "El río Amazonas",
+    "incorrecta1": "El río Nilo",
+    "incorrecta2": "El río Mississippi",
+    "incorrecta3": "El río Yangtsé",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+    "respuesta": "Leonardo da Vinci",
+    "incorrecta1": "Vincent van Gogh",
+    "incorrecta2": "Pablo Picasso",
+    "incorrecta3": "Michelangelo",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el símbolo químico del oro?",
+    "respuesta": "Au",
+    "incorrecta1": "Ag",
+    "incorrecta2": "Fe",
+    "incorrecta3": "Cu",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿En qué año se celebró la independencia de los Estados Unidos?",
+    "respuesta": "1776",
+    "incorrecta1": "1789",
+    "incorrecta2": "1812",
+    "incorrecta3": "1901",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "respuesta": "Júpiter",
+    "incorrecta1": "Marte",
+    "incorrecta2": "Venus",
+    "incorrecta3": "Saturno",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuesta": "El océano Pacífico",
+    "incorrecta1": "El océano Atlántico",
+    "incorrecta2": "El océano Índico",
+    "incorrecta3": "El océano Ártico",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Quién escribió la novela '1984'?",
+    "respuesta": "George Orwell",
+    "incorrecta1": "Aldous Huxley",
+    "incorrecta2": "Ernest Hemingway",
+    "incorrecta3": "F. Scott Fitzgerald",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "respuesta": "Aluminio",
+    "incorrecta1": "Hierro",
+    "incorrecta2": "Cobre",
+    "incorrecta3": "Plata",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es la capital de Colombia?",
+    "respuesta": "Bogotá",
+    "incorrecta1": "Medellín",
+    "incorrecta2": "Cali",
+    "incorrecta3": "Cartagena",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el río más largo de Colombia?",
+    "respuesta": "El río Magdalena",
+    "incorrecta1": "El río Cauca",
+    "incorrecta2": "El río Orinoco",
+    "incorrecta3": "El río Amazonas",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Cultura General",
+    "pregunta": "¿Cuál es el plato típico de Colombia que incluye carne, arroz, plátano maduro y huevo?",
+    "respuesta": "El bandeja paisa",
+    "incorrecta1": "La arepa",
+    "incorrecta2": "El ajiaco",
+    "incorrecta3": "El sancocho",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Inglés Básico",
+    "pregunta": "¿Cómo se dice 'hola' en inglés?",
+    "respuesta": "Hello",
+    "incorrecta1": "Goodbye",
+    "incorrecta2": "Thank you",
+    "incorrecta3": "Yes",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Inglés Básico",
+    "pregunta": "¿Qué significa 'buenos días' en inglés?",
+    "respuesta": "Good morning",
+    "incorrecta1": "Good night",
+    "incorrecta2": "Goodbye",
+    "incorrecta3": "Thank you",
+    "imagen": "",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Inglés Básico",
+    "pregunta": "Completa la siguiente frase: 'My name is ___.'",
+    "respuesta": "John",
+    "incorrecta1": "book",
+    "incorrecta2": "car",
+    "incorrecta3": "red",
+    "imagen": "",
+    "objectFit": "contain"
+  }
+]
